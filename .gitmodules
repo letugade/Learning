@@ -1,6 +1,3 @@
-[submodule "Blockgeeks-Cosmos-Intro"]
-	path = Blockgeeks-Cosmos-Intro
-	url = https://github.com/letugade/Blockgeeks-Cosmos-Intro
 [submodule "Learning-Ruby-On-Rails-CoinMarketCapMonitor"]
 	path = Learning-Ruby-On-Rails-CoinMarketCapMonitor
 	url = https://github.com/letugade/Learning-Ruby-On-Rails-CoinMarketCapMonitor
